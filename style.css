@@ -1,0 +1,67 @@
+body{
+	margin: 0px;
+padding: 0px;
+ font-family:cursive; 
+}
+}
+p{ 
+	font-size: 40px;
+	text-align: center;
+	border: solid black;
+	width: 99%;
+	height: 100%;
+;
+	
+}
+
+
+
+#full{
+	width: 100%;
+	height: 100vh;
+	background-image: url("https://mobuild.co.in/images/webdesign.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+}
+h2{
+	text-align: center;
+	font-size: 60px;
+
+
+}
+.table2{
+	width: 100%;
+	height:100%;
+ background-image: url("https://i.pinimg.com/originals/74/db/26/74db262ebb3eab48c0952819f80b43a9.jpg");
+border:solid black;
+background-attachment: fixed;
+border-width: 4px;
+}
+h1{
+	font-size: 50px;
+ text-indent: 1.5em;
+  animation-delay: 2s;
+}
+.header{
+	background-color: rgba(0,0,0,5);
+	width: 100%;
+	height: 5vh;
+align-items: center;
+}
+	
+
+.menu ul li{
+	display: inline;
+	list-style: none;
+	background-color:  rgba(4,8,5,6);
+	padding: -11px;
+}
+.menu ul a{
+	text-decoration: none;
+}
+.menu{
+	float: right;
+	font-size: 33px;
+	
+}
